@@ -1,4 +1,4 @@
 Menu=['IDLI','DOSA','SANDWICH','PASTA']
-print('Menu is ' + Menu)
+print(Menu)
 order=str(input('Enter your choice from Menu'))
 print('Your order ' + order + 'is confirmed')
